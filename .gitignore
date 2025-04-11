@@ -1,4 +1,6 @@
 # Compiled class file
+#IntelliJ folder
+**/.idea/
 *.class
 
 # Log file
